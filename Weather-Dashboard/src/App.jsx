@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import Search from './Components/Search';
-import WeatherCard from './components/WeatherCard';
+import WeatherCard from './Components/WeatherCard';
 import WeatherDetails from './Components/WeatherDetails';
 
 function App() {
