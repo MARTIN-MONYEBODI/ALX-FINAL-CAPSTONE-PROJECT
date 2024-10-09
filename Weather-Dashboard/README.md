@@ -1,6 +1,6 @@
 Weather Dashboard
 
-![Weather Dashboard](./src/assets/images/Webpage-Screenshot.png)
+![Weather Dashboard](src/assets/Webpage-Screenshot.png)
 
 OVERVIEW
 
@@ -21,5 +21,6 @@ TECHNOLOGIES USED
 - Axios for API calls
 - OpenWeatherMap API 
 
-INSTALLATION
-1. Clone the repository : https://github.com/MARTIN-MONYEBODI/ALX-FINAL-CAPSTONE-PROJECT.git
+REPOSITORY
+
+  https://github.com/MARTIN-MONYEBODI/ALX-FINAL-CAPSTONE-PROJECT.git
