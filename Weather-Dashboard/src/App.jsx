@@ -12,7 +12,7 @@ function App() {
     return JSON.parse(localStorage.getItem('recentSearches')) || [];
   });
 
-  const apiKey = 'd547ce7bfaecd759981dd248c4ad3a7d';
+  const apiKey = '';
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${apiKey}&units=imperial`;
 
   const fetchWeather = (city) => {
